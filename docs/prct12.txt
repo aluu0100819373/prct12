@@ -1,0 +1,8 @@
+Hola('default', 'Aug  1 2012 05:16:07')
+<function platform at 0x8c8d2cc>
+('Linux', 'fran-HP-Mini-110-3500', '3.2.0-37-generic', '#58-Ubuntu SMP Thu Jan 24 15:28:57 UTC 2013', 'i686', 'i686')
+2.7.3
+Intel(R) Atom(TM) CPU N455   @ 1.66GHz
+GenuineIntel
+1000.000 Hz 
+512 KB
